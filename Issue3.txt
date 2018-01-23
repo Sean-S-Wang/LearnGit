@@ -3,3 +3,5 @@ Issue 3
 Merge thing?
 
 Merge now with protected branch
+
+Real merge on iss3 branch to protected branch

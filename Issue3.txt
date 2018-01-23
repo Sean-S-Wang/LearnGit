@@ -1,3 +1,5 @@
 Issue 3
 
 Merge thing?
+
+Merge now with protected branch

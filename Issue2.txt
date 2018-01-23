@@ -5,3 +5,5 @@ Second issue 2 changes
 Third issue 2 changes
 
 Fourth issue 2 changes
+
+Merge request change

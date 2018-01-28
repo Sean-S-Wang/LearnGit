@@ -1,9 +1,0 @@
-Issue 3
-
-Merge thing?
-
-Merge now with protected branch
-
-Real merge on iss3 branch to protected branch
-
-Merge iss3 to master now that iss3 is remote
